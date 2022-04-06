@@ -1,2 +1,2 @@
-# Heartrate prediction throught Machine learning
+# Heartrate prediction through Machine learning
   unsupervised Machine learning
